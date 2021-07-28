@@ -515,7 +515,7 @@ header {
 	}
 }
 
-@media only screen and (min-width: 0) and (max-width: 376px) {
+@media only screen and (min-width: 0) and (max-width: 414px) {
 	.logo {
 		display: none;
 	}
@@ -691,7 +691,6 @@ header {
 		color: #fff;
 		opacity: 0.5;
 		padding: 20px 20px 100px;
-		border: 1px solid #fff;
 		margin-bottom: 20px;
 	}
 	.menu-form-textarea::placeholder {
