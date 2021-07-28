@@ -1,5 +1,4 @@
-Responsive layout 
+Link:
 
-Please have a look at https://maria-khudolii.github.io/Responsive/
-
+https://irenaornatskaya.github.io/Responsive-page/
 # Responsive-page
