@@ -633,11 +633,11 @@ header {
 		margin: 0;
 	}
 	.slider-item {
-		width: 375px;
+		width: 414px;
 		height: 180px;
 	}
 	.slick-slider {
-		max-width: 375px;
+		max-width: 414px;
 		margin: 0px auto;
 		overflow: hidden;
 		position: absolute;
